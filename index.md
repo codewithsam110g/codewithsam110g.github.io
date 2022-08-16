@@ -45,8 +45,6 @@ They gave us 2 files
 
 {{ "{% highlight python3 "}}%}
 
-```
-
 import random
 
 # Two byte hash
@@ -65,5 +63,4 @@ flag = input("Enter flag : ")
 enc = encryptFlag(flag)
 print("Encrypted flag is : ", enc)
 
-```
 {{ "{% endhighlight "}}%}
