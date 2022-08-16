@@ -1,4 +1,4 @@
-## Solving and Capturing Flags in CTF
+# Solving and Capturing Flags in CTF
 
 Hi iam SaiKris2 a RGUKT Student from Nuzvid Campus from PUC1
 
@@ -6,7 +6,7 @@ Today we are looking good to crack some flags from these Challanges
 
 Its Right we are doing some CTF (Caputure The Flag) Challanges from the Event Hosted by InvadersCTF
 
-# About the Event
+## About the Event
 
 This event is hosted by Invaders CTF Group from 10th of August 2:00 pm until 14 of August 2:00 pm, in this Website https://ctf.pwn.af/challenges
 
@@ -28,11 +28,11 @@ I did a Couple of Problems from each Section of Apart from Crypto
 
 Now enough of the boring part and lets break our keyboards!!! Ahem! I mean lets start Cracking the Challanges
 
-# Misc Category
+## Misc Category
 
 1. Encrypted
 
-## Description of Challange
+### Description of Challange
 
 Recover the flag by reversing the encryption.
 
@@ -41,7 +41,7 @@ They gave us 2 files
 1. A image called leak.png 
 2. A Python file called Chall.py [Link](https://github.com/codewithsam110g/codewithsam110g.github.io/blob/main/chall.py)
 
-## Code given chall.py
+### Code given chall.py
 
 ```python
 
