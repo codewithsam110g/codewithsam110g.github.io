@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## Solving and Capturing Flags in CTF
 
-You can use the [editor on GitHub](https://github.com/codewithsam110g/codewithsam110g.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hi iam SaiKris2 a RGUKT Student from Nuzvid Campus from PUC1
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Today we are looking good to crack some flags from these Challanges
 
-### Markdown
+Its Right we are doing some CTF (Caputure The Flag) Challanges from the Event Hosted by InvadersCTF
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# About the Event
 
-```markdown
-Syntax highlighted code block
+This event is hosted by Invaders CTF Group from 10th of August 2:00 pm until 14 of August 2:00 pm, in this Website https://ctf.pwn.af/challenges
 
-# Header 1
-## Header 2
-### Header 3
+It might be taken down by the time this website is published
 
-- Bulleted
-- List
+So basically, There are a lot of Sections / Categories in Which we can solve problems
 
-1. Numbered
-2. List
+The list of Categories:
 
-**Bold** and _Italic_ and `Code` text
+- Web
+- PWN
+- Misc
+- Rev
+- Crypto
 
-[Link](url) and ![Image](src)
+Each have there own set of challenges starting from easy to hard
+
+I did a Couple of Problems from each Section of Apart from Crypto
+
+Now enough of the boring part and lets break our keyboards!!! Ahem! I mean lets start Cracking the Challanges
+
+# Misc Category
+
+1. Python2
+
+This is interesting Challenge, but pretty simple on if you ask me,
+
+## Description of Challange
+
+Python2 is for boomers, i dont know anyone who is still using it. Do you still use it?
+
+## Code given chall.py
+
+```
+sds
+
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/codewithsam110g/codewithsam110g.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
