@@ -83,7 +83,9 @@ Now, we will take the given encrypted value and break it into smaller sections w
 we do this by dividing the length of given function by 4 as we know that each character is 4 letters from this line in code
 
 ```python
+
     return hex(num)[2:].zfill(4) #filling 4 values
+    
 ```
 
 now that will give us number of characters in encrypted value, now we use this to divide the length of the encrypted value again to give the section length
