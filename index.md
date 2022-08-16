@@ -74,8 +74,6 @@ as we can see the code is not randomized, it means if we pass a letter "a" as in
 this is because the random function asks for a seed value to generate something, as the seed is already given, if we use the same seed it will
 generate same psuedo-random character which defies its purpose
 
-and from above code every letter is composed of 4 values in encrypted value
-
 To crack this, we can make a lookup table with given alphanumeric(Numbers & Alphabets) characters and symbols
 
 Now, we will take the given encrypted value and break it into smaller sections which will represent their character
