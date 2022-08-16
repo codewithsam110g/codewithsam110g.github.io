@@ -38,7 +38,7 @@ Recover the flag by reversing the encryption.
 
 They gave us 2 files
 
-1. A image called leak.png [Link](https://github.com/codewithsam110g/codewithsam110g.github.io/blob/main/leak.png)
+1. A image called leak.png [Image](/codewithsam110g.github.io/leak.png)
 2. A Python file called Chall.py [Link](https://github.com/codewithsam110g/codewithsam110g.github.io/blob/main/chall.py)
 
 ### Code given chall.py
