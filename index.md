@@ -43,7 +43,7 @@ They gave us 2 files
 
 ## Code given chall.py
 
-{{ "{% highlight python3 "}}%}
+```python3
 
 import random
 
@@ -63,4 +63,4 @@ flag = input("Enter flag : ")
 enc = encryptFlag(flag)
 print("Encrypted flag is : ", enc)
 
-{{ "{% endhighlight "}}%}
+```
