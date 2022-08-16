@@ -43,7 +43,7 @@ They gave us 2 files
 
 ## Code given chall.py
 
-```python3
+```python
 
 import random
 
