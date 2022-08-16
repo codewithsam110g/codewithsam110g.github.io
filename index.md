@@ -43,7 +43,7 @@ They gave us 2 files
 
 ## Code given chall.py
 
-{{% highlight python3 %}}
+{{ "{% highlight python3 "}}%}
 
 ```
 
@@ -66,4 +66,4 @@ enc = encryptFlag(flag)
 print("Encrypted flag is : ", enc)
 
 ```
-{{% endhighlight %}}
+{{ "{% endhighlight "}}%}
