@@ -30,18 +30,40 @@ Now enough of the boring part and lets break our keyboards!!! Ahem! I mean lets 
 
 # Misc Category
 
-1. Python2
-
-This is interesting Challenge, but pretty simple on if you ask me,
+1. Encrypted
 
 ## Description of Challange
 
-Python2 is for boomers, i dont know anyone who is still using it. Do you still use it?
+Recover the flag by reversing the encryption.
+
+They gave us 2 files
+
+1. A image called leak.png 
+2. A Python file called Chall.py
 
 ## Code given chall.py
 
-```
-sds
+{{% highlight python %}}
 
 ```
 
+import random
+
+# Two byte hash
+def myHash(string):
+    random.seed("H4shS33d" + string)
+    num = random.getrandbits(16)
+    return hex(num)[2:].zfill(4)
+
+def encryptFlag(flag):
+    enc = ""
+    for char in flag:
+        enc += myHash(char)
+    return enc
+
+flag = input("Enter flag : ")
+enc = encryptFlag(flag)
+print("Encrypted flag is : ", enc)
+
+```
+{{% endhighlight %}}
