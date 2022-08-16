@@ -43,7 +43,7 @@ They gave us 2 files
 
 ## Code given chall.py
 
-{{% highlight python %}}
+{{% highlight python3 %}}
 
 ```
 
