@@ -34,7 +34,7 @@ Now enough of the boring part and lets break our keyboards!!! Ahem! I mean lets 
 
 ### Description of Challange
 
-Recover the flag by reversing the encryption.
+**Recover the flag by reversing the encryption.**
 
 They gave us 2 files
 
@@ -148,7 +148,7 @@ If u want to find the flags you have to run the code all yourself
 
 They given a command to execute that is nc ip_addr port
 
-and they said " Python2 for boomers, I dont know anyone who uses python2, do you use python2
+and they said " **Python2 for boomers, I dont know anyone who uses python2, do you use python2?** "
 
 nc id inbuilt command in linux, but not in windows
 
