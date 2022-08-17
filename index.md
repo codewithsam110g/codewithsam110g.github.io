@@ -30,7 +30,7 @@ Now enough of the boring part and lets break our keyboards!!! Ahem! I mean lets 
 
 ## Misc Category
 
-1. Encrypted
+# 1. Encrypted
 
 ### Description of Challange
 
@@ -140,4 +140,32 @@ for s in val:
 print(res)
 
 ```
+If u want to find the flags you have to run the code all yourself
 
+# 2. Python2
+
+## Description
+
+They given a command to execute that is nc ip_addr port
+
+and they said " Python2 for boomers, I dont know anyone who uses python2, do you use python2
+
+nc id inbuilt command in linux, but not in windows
+
+it is actually called NetKat it is used to read and write from shell from and to another computer using tcp and udp ports, Making it useful for backend
+
+it has some vulnerabilities, so it is considered as a virus in windows os so it might not allow to use unless you add exceptions in windows security
+
+Coming to point, 
+
+They also given a file called
+
+- Chall.py
+
+## Code in python file
+
+```python
+
+import flag
+
+```
